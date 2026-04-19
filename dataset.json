@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Detailed restaurant dataset for Springfield, Illinois with a population of over 114k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Springfield, Illinois, US",
-  "export_job_id": "86be6887-ffd4-4d1d-a37a-bc51e3c95a0b",
+  "export_job_id": "fae870ae-4b33-4fc1-9f14-3a6f55955e76",
   "github_org": "Beamstation-Datasets",
   "id_short": 138214,
   "location_name": "Springfield",
   "location_type": "city",
   "repo_name": "all-restaurants-in-springfield-illinois-us-sample-138214",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/138214/beamstation_138214_restaurants-us-il_SAMPLE_DIST.csv",
-  "sample_pct": 9.84,
+  "sample_pct": 9.86,
   "sample_records": 49,
-  "sample_sha256": "bd037f2c6534c0b057a554e10f7d8dae7135619e588bd25fdf2bb0449af4343c",
-  "sample_size_bytes": 181297,
-  "total_records": 498,
-  "updated_at": "2026-04-09T10:13:13.208299+00:00"
+  "sample_sha256": "e727f81e208c48dec2b0329eace88b4c4de76aad9050c9bf14fabde97064b6c9",
+  "sample_size_bytes": 201314,
+  "total_records": 497,
+  "updated_at": "2026-04-16T10:08:08.993487+00:00"
 }
