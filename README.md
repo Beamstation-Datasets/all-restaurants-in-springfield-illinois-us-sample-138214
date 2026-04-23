@@ -1,6 +1,6 @@
 # All Restaurants in Springfield, Illinois, US
 
-> Free BeamStation sample export with 49 rows and masked direct-contact fields.
+> Free BeamStation sample export with 44 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `138214` |
 | Location | Springfield |
 | Category | Restaurants |
-| Full dataset size | 497 records |
-| Free sample size | 49 records (9.86%) |
-| Last export | 2026-04-16T10:08:08.993487+00:00 |
+| Full dataset size | 445 records |
+| Free sample size | 44 records (9.89%) |
+| Last export | 2026-04-23T10:01:28.007566+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-springfield-illinois-us-sample-138214/releases/download/sample-latest/beamstation_138214_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
