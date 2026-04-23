@@ -1,12 +1,12 @@
 {
-  "export_job_id": "fae870ae-4b33-4fc1-9f14-3a6f55955e76",
+  "export_job_id": "2d7cbf2f-5f8e-44fc-b3d7-782dc922965d",
   "id_short": 138214,
-  "published_at": "2026-04-19T07:56:49Z",
+  "published_at": "2026-04-23T19:17:51Z",
   "repo_name": "all-restaurants-in-springfield-illinois-us-sample-138214",
   "sample_asset_name": "beamstation_138214_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/138214/beamstation_138214_restaurants-us-il_SAMPLE_DIST.csv",
-  "sample_records": 49,
-  "sample_sha256": "e727f81e208c48dec2b0329eace88b4c4de76aad9050c9bf14fabde97064b6c9",
-  "sample_size_bytes": 201314,
-  "total_records": 497
+  "sample_records": 44,
+  "sample_sha256": "f5e413720808f4ad603379769a83987e58972181d659ab8365df29dbdb903fd2",
+  "sample_size_bytes": 167766,
+  "total_records": 445
 }
